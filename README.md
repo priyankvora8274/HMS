@@ -1,12 +1,12 @@
 # Hostel Management System
 
-#Requirements
+## Requirements
 For building and running the application you need:
 
 JDK 1.8
 MySQL 8.0
 
-#Running the application locally
+## Running the application locally
 
 you can use the Spring Boot Maven plugin:
  
